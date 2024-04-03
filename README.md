@@ -10,6 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+or You can visit this site to see it in full view https://660d93d5ca68cd222337372c--tangerine-arithmetic-1d7e8c.netlify.app/
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
